@@ -102,3 +102,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+HW/ProblemSet1/2016_A_S.txt
+HW/ProblemSet1/2016_A_S1.txt
+Projects/msdchallenge/MSDChallengeGettingstarted.pdf
+Projects/msdchallenge/kaggle_songs.txt
+Projects/msdchallenge/kaggle_users.txt
+Projects/msdchallenge/kaggle_visible_evaluation_triplets.txt
+Projects/msdchallenge/taste_profile_song_to_tracks.txt
